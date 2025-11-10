@@ -42,10 +42,10 @@
         "scheme": "file",
         "title": "Paciente dia a partir de 2025.",
         "stats": {
-          "hash": "64618f9ad22bbb72c5c35fd78489b6e7",
-          "bytes": 2501,
+          "hash": "38c3a2b530b2f348230e967ad5e6e09c",
+          "bytes": 2788,
           "fields": 4,
-          "rows": 146
+          "rows": 162
         }
       },
       "time": 0.012,
