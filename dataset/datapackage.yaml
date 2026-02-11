@@ -30,4 +30,4 @@ resources:
           description: "Unidade de medida que representa a assistência prestada a um paciente internado durante um dia hospitalar."
     scheme: file
     title: Dados de paciente dia por unidade FHEMIG.
-title: Paciente dia
+title: Paciente Dia
