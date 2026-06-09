@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.083,
+  "time": 0.071,
   "errors": [],
   "tasks": [
     {
@@ -53,7 +53,7 @@
           "rows": 0
         }
       },
-      "time": 0.074,
+      "time": 0.061,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -17527,16 +17527,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "CAC/CHPB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSPD",
-            "2019",
-            "1",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "261"
+            "CHPB",
+            "2026",
+            "5",
+            "CAC/CHPB/CHB",
+            "4"
           ],
           "rowNumber": 699,
           "rowPosition": 700,
@@ -17548,20 +17548,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"700\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CAC/CHPB/CHB\" in row \"700\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "LAR INCLUSIVO A/CHPB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSPD",
-            "2019",
-            "2",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "375"
+            "CHPB",
+            "2026",
+            "5",
+            "LAR INCLUSIVO A/CHPB/CHB",
+            "145"
           ],
           "rowNumber": 700,
           "rowPosition": 701,
@@ -17573,20 +17573,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"701\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"LAR INCLUSIVO A/CHPB/CHB\" in row \"701\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "LAR INCLUSIVO B/CHPB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSPD",
-            "2019",
-            "3",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "350"
+            "CHPB",
+            "2026",
+            "5",
+            "LAR INCLUSIVO B/CHPB/CHB",
+            "188"
           ],
           "rowNumber": 701,
           "rowPosition": 702,
@@ -17598,20 +17598,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"702\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"LAR INCLUSIVO B/CHPB/CHB\" in row \"702\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UIP-FEMININA/CHPB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSPD",
-            "2019",
-            "4",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "502"
+            "CHPB",
+            "2026",
+            "5",
+            "UIP-FEMININA/CHPB/CHB",
+            "208"
           ],
           "rowNumber": 702,
           "rowPosition": 703,
@@ -17623,20 +17623,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"703\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UIP-FEMININA/CHPB/CHB\" in row \"703\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UIP-MASCULINA/CHPB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSPD",
-            "2019",
+            "CHPB",
+            "2026",
             "5",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "462"
+            "UIP-MASCULINA/CHPB/CHB",
+            "397"
           ],
           "rowNumber": 703,
           "rowPosition": 704,
@@ -17648,20 +17648,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"704\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UIP-MASCULINA/CHPB/CHB\" in row \"704\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE CUIDADOS PROLONGADOS/CHPB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSPD",
-            "2019",
-            "6",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "435"
+            "CHPB",
+            "2026",
+            "5",
+            "UNIDADE DE CUIDADOS PROLONGADOS/CHPB/CHB",
+            "743"
           ],
           "rowNumber": 704,
           "rowPosition": 705,
@@ -17673,7 +17673,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"705\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS/CHPB/CHB\" in row \"705\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -17684,9 +17684,9 @@
           "cells": [
             "CSPD",
             "2019",
-            "7",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "416"
+            "261"
           ],
           "rowNumber": 705,
           "rowPosition": 706,
@@ -17709,9 +17709,9 @@
           "cells": [
             "CSPD",
             "2019",
-            "8",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "446"
+            "375"
           ],
           "rowNumber": 706,
           "rowPosition": 707,
@@ -17734,9 +17734,9 @@
           "cells": [
             "CSPD",
             "2019",
-            "9",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "463"
+            "350"
           ],
           "rowNumber": 707,
           "rowPosition": 708,
@@ -17759,9 +17759,9 @@
           "cells": [
             "CSPD",
             "2019",
-            "10",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "387"
+            "502"
           ],
           "rowNumber": 708,
           "rowPosition": 709,
@@ -17784,9 +17784,9 @@
           "cells": [
             "CSPD",
             "2019",
-            "11",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "391"
+            "462"
           ],
           "rowNumber": 709,
           "rowPosition": 710,
@@ -17809,9 +17809,9 @@
           "cells": [
             "CSPD",
             "2019",
-            "12",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "346"
+            "435"
           ],
           "rowNumber": 710,
           "rowPosition": 711,
@@ -17833,10 +17833,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2020",
-            "1",
+            "2019",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "381"
+            "416"
           ],
           "rowNumber": 711,
           "rowPosition": 712,
@@ -17858,10 +17858,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2020",
-            "2",
+            "2019",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "360"
+            "446"
           ],
           "rowNumber": 712,
           "rowPosition": 713,
@@ -17883,10 +17883,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2020",
-            "3",
+            "2019",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "395"
+            "463"
           ],
           "rowNumber": 713,
           "rowPosition": 714,
@@ -17908,10 +17908,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2020",
-            "4",
+            "2019",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "228"
+            "387"
           ],
           "rowNumber": 714,
           "rowPosition": 715,
@@ -17933,10 +17933,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2020",
-            "5",
+            "2019",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "211"
+            "391"
           ],
           "rowNumber": 715,
           "rowPosition": 716,
@@ -17958,10 +17958,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2020",
-            "6",
+            "2019",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "277"
+            "346"
           ],
           "rowNumber": 716,
           "rowPosition": 717,
@@ -17984,9 +17984,9 @@
           "cells": [
             "CSPD",
             "2020",
-            "7",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "291"
+            "381"
           ],
           "rowNumber": 717,
           "rowPosition": 718,
@@ -18009,9 +18009,9 @@
           "cells": [
             "CSPD",
             "2020",
-            "8",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "248"
+            "360"
           ],
           "rowNumber": 718,
           "rowPosition": 719,
@@ -18034,9 +18034,9 @@
           "cells": [
             "CSPD",
             "2020",
-            "9",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "308"
+            "395"
           ],
           "rowNumber": 719,
           "rowPosition": 720,
@@ -18059,9 +18059,9 @@
           "cells": [
             "CSPD",
             "2020",
-            "10",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "357"
+            "228"
           ],
           "rowNumber": 720,
           "rowPosition": 721,
@@ -18084,9 +18084,9 @@
           "cells": [
             "CSPD",
             "2020",
-            "11",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "294"
+            "211"
           ],
           "rowNumber": 721,
           "rowPosition": 722,
@@ -18109,9 +18109,9 @@
           "cells": [
             "CSPD",
             "2020",
-            "12",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "241"
+            "277"
           ],
           "rowNumber": 722,
           "rowPosition": 723,
@@ -18133,10 +18133,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2021",
-            "1",
+            "2020",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "275"
+            "291"
           ],
           "rowNumber": 723,
           "rowPosition": 724,
@@ -18158,10 +18158,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2021",
-            "2",
+            "2020",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "220"
+            "248"
           ],
           "rowNumber": 724,
           "rowPosition": 725,
@@ -18183,10 +18183,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2021",
-            "3",
+            "2020",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "262"
+            "308"
           ],
           "rowNumber": 725,
           "rowPosition": 726,
@@ -18208,10 +18208,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2021",
-            "4",
+            "2020",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "294"
+            "357"
           ],
           "rowNumber": 726,
           "rowPosition": 727,
@@ -18233,10 +18233,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2021",
-            "5",
+            "2020",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "284"
+            "294"
           ],
           "rowNumber": 727,
           "rowPosition": 728,
@@ -18258,10 +18258,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2021",
-            "6",
+            "2020",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "327"
+            "241"
           ],
           "rowNumber": 728,
           "rowPosition": 729,
@@ -18284,9 +18284,9 @@
           "cells": [
             "CSPD",
             "2021",
-            "7",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "454"
+            "275"
           ],
           "rowNumber": 729,
           "rowPosition": 730,
@@ -18309,9 +18309,9 @@
           "cells": [
             "CSPD",
             "2021",
-            "8",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "448"
+            "220"
           ],
           "rowNumber": 730,
           "rowPosition": 731,
@@ -18334,9 +18334,9 @@
           "cells": [
             "CSPD",
             "2021",
-            "9",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "349"
+            "262"
           ],
           "rowNumber": 731,
           "rowPosition": 732,
@@ -18359,9 +18359,9 @@
           "cells": [
             "CSPD",
             "2021",
-            "10",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "307"
+            "294"
           ],
           "rowNumber": 732,
           "rowPosition": 733,
@@ -18384,9 +18384,9 @@
           "cells": [
             "CSPD",
             "2021",
-            "11",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "376"
+            "284"
           ],
           "rowNumber": 733,
           "rowPosition": 734,
@@ -18409,9 +18409,9 @@
           "cells": [
             "CSPD",
             "2021",
-            "12",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "370"
+            "327"
           ],
           "rowNumber": 734,
           "rowPosition": 735,
@@ -18433,10 +18433,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2022",
-            "1",
+            "2021",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "378"
+            "454"
           ],
           "rowNumber": 735,
           "rowPosition": 736,
@@ -18458,10 +18458,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2022",
-            "2",
+            "2021",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "198"
+            "448"
           ],
           "rowNumber": 736,
           "rowPosition": 737,
@@ -18483,10 +18483,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2022",
-            "3",
+            "2021",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "363"
+            "349"
           ],
           "rowNumber": 737,
           "rowPosition": 738,
@@ -18508,10 +18508,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2022",
-            "4",
+            "2021",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "442"
+            "307"
           ],
           "rowNumber": 738,
           "rowPosition": 739,
@@ -18533,10 +18533,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2022",
-            "5",
+            "2021",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "496"
+            "376"
           ],
           "rowNumber": 739,
           "rowPosition": 740,
@@ -18558,10 +18558,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2022",
-            "6",
+            "2021",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "562"
+            "370"
           ],
           "rowNumber": 740,
           "rowPosition": 741,
@@ -18584,9 +18584,9 @@
           "cells": [
             "CSPD",
             "2022",
-            "7",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "580"
+            "378"
           ],
           "rowNumber": 741,
           "rowPosition": 742,
@@ -18609,9 +18609,9 @@
           "cells": [
             "CSPD",
             "2022",
-            "8",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "605"
+            "198"
           ],
           "rowNumber": 742,
           "rowPosition": 743,
@@ -18627,16 +18627,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSPD",
             "2022",
-            "9",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "29"
+            "3",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "363"
           ],
           "rowNumber": 743,
           "rowPosition": 744,
@@ -18648,7 +18648,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"744\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"744\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -18659,9 +18659,9 @@
           "cells": [
             "CSPD",
             "2022",
-            "9",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "505"
+            "442"
           ],
           "rowNumber": 744,
           "rowPosition": 745,
@@ -18677,16 +18677,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSPD",
             "2022",
-            "10",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "205"
+            "5",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "496"
           ],
           "rowNumber": 745,
           "rowPosition": 746,
@@ -18698,7 +18698,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"746\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"746\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -18709,9 +18709,9 @@
           "cells": [
             "CSPD",
             "2022",
-            "10",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "263"
+            "562"
           ],
           "rowNumber": 746,
           "rowPosition": 747,
@@ -18727,16 +18727,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSPD",
             "2022",
-            "11",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "214"
+            "7",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "580"
           ],
           "rowNumber": 747,
           "rowPosition": 748,
@@ -18748,7 +18748,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"748\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"748\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -18759,9 +18759,9 @@
           "cells": [
             "CSPD",
             "2022",
-            "11",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "326"
+            "605"
           ],
           "rowNumber": 748,
           "rowPosition": 749,
@@ -18784,9 +18784,9 @@
           "cells": [
             "CSPD",
             "2022",
-            "12",
+            "9",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "206"
+            "29"
           ],
           "rowNumber": 749,
           "rowPosition": 750,
@@ -18809,9 +18809,9 @@
           "cells": [
             "CSPD",
             "2022",
-            "12",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "214"
+            "505"
           ],
           "rowNumber": 750,
           "rowPosition": 751,
@@ -18833,10 +18833,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2023",
-            "1",
+            "2022",
+            "10",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "215"
+            "205"
           ],
           "rowNumber": 751,
           "rowPosition": 752,
@@ -18858,10 +18858,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2023",
-            "1",
+            "2022",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "267"
+            "263"
           ],
           "rowNumber": 752,
           "rowPosition": 753,
@@ -18883,10 +18883,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2023",
-            "2",
+            "2022",
+            "11",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "249"
+            "214"
           ],
           "rowNumber": 753,
           "rowPosition": 754,
@@ -18908,10 +18908,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2023",
-            "2",
+            "2022",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "388"
+            "326"
           ],
           "rowNumber": 754,
           "rowPosition": 755,
@@ -18933,10 +18933,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2023",
-            "3",
+            "2022",
+            "12",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "243"
+            "206"
           ],
           "rowNumber": 755,
           "rowPosition": 756,
@@ -18958,10 +18958,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2023",
-            "3",
+            "2022",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "490"
+            "214"
           ],
           "rowNumber": 756,
           "rowPosition": 757,
@@ -18984,9 +18984,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "4",
+            "1",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "258"
+            "215"
           ],
           "rowNumber": 757,
           "rowPosition": 758,
@@ -19009,9 +19009,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "4",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "415"
+            "267"
           ],
           "rowNumber": 758,
           "rowPosition": 759,
@@ -19034,9 +19034,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "5",
+            "2",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "255"
+            "249"
           ],
           "rowNumber": 759,
           "rowPosition": 760,
@@ -19059,9 +19059,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "5",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "435"
+            "388"
           ],
           "rowNumber": 760,
           "rowPosition": 761,
@@ -19084,9 +19084,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "6",
+            "3",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "254"
+            "243"
           ],
           "rowNumber": 761,
           "rowPosition": 762,
@@ -19109,9 +19109,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "6",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "477"
+            "490"
           ],
           "rowNumber": 762,
           "rowPosition": 763,
@@ -19134,9 +19134,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "7",
+            "4",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "230"
+            "258"
           ],
           "rowNumber": 763,
           "rowPosition": 764,
@@ -19159,9 +19159,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "7",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "409"
+            "415"
           ],
           "rowNumber": 764,
           "rowPosition": 765,
@@ -19184,9 +19184,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "8",
+            "5",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "254"
+            "255"
           ],
           "rowNumber": 765,
           "rowPosition": 766,
@@ -19209,9 +19209,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "8",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "469"
+            "435"
           ],
           "rowNumber": 766,
           "rowPosition": 767,
@@ -19234,9 +19234,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "9",
+            "6",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "263"
+            "254"
           ],
           "rowNumber": 767,
           "rowPosition": 768,
@@ -19259,7 +19259,7 @@
           "cells": [
             "CSPD",
             "2023",
-            "9",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
             "477"
           ],
@@ -19284,9 +19284,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "10",
+            "7",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "358"
+            "230"
           ],
           "rowNumber": 769,
           "rowPosition": 770,
@@ -19309,9 +19309,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "10",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "199"
+            "409"
           ],
           "rowNumber": 770,
           "rowPosition": 771,
@@ -19334,9 +19334,9 @@
           "cells": [
             "CSPD",
             "2023",
-            "11",
+            "8",
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "25"
+            "254"
           ],
           "rowNumber": 771,
           "rowPosition": 772,
@@ -19352,16 +19352,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSPD",
             "2023",
-            "11",
-            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
-            "621"
+            "8",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "469"
           ],
           "rowNumber": 772,
           "rowPosition": 773,
@@ -19373,20 +19373,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"773\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"773\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSPD",
             "2023",
-            "12",
-            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
-            "862"
+            "9",
+            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+            "263"
           ],
           "rowNumber": 773,
           "rowPosition": 774,
@@ -19398,20 +19398,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"774\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"774\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2024",
-            "1",
-            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
-            "876"
+            "2023",
+            "9",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "477"
           ],
           "rowNumber": 774,
           "rowPosition": 775,
@@ -19423,20 +19423,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"775\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"775\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2024",
-            "2",
-            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
-            "725"
+            "2023",
+            "10",
+            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+            "358"
           ],
           "rowNumber": 775,
           "rowPosition": 776,
@@ -19448,20 +19448,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"776\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"776\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2024",
-            "3",
-            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
-            "796"
+            "2023",
+            "10",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "199"
           ],
           "rowNumber": 776,
           "rowPosition": 777,
@@ -19473,20 +19473,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"777\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"777\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2024",
-            "4",
-            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
-            "1031"
+            "2023",
+            "11",
+            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+            "25"
           ],
           "rowNumber": 777,
           "rowPosition": 778,
@@ -19498,7 +19498,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"778\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"778\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -19508,10 +19508,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2024",
-            "5",
+            "2023",
+            "11",
             "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
-            "1051"
+            "621"
           ],
           "rowNumber": 778,
           "rowPosition": 779,
@@ -19533,10 +19533,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSPD",
-            "2024",
-            "6",
+            "2023",
+            "12",
             "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
-            "1003"
+            "862"
           ],
           "rowNumber": 779,
           "rowPosition": 780,
@@ -19559,9 +19559,9 @@
           "cells": [
             "CSPD",
             "2024",
-            "7",
+            "1",
             "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
-            "1051"
+            "876"
           ],
           "rowNumber": 780,
           "rowPosition": 781,
@@ -19577,16 +19577,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSSFA",
-            "2019",
-            "1",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "409"
+            "CSPD",
+            "2024",
+            "2",
+            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+            "725"
           ],
           "rowNumber": 781,
           "rowPosition": 782,
@@ -19598,7 +19598,157 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"782\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"782\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSPD",
+            "2024",
+            "3",
+            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+            "796"
+          ],
+          "rowNumber": 782,
+          "rowPosition": 783,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"783\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSPD",
+            "2024",
+            "4",
+            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+            "1031"
+          ],
+          "rowNumber": 783,
+          "rowPosition": 784,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"784\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSPD",
+            "2024",
+            "5",
+            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+            "1051"
+          ],
+          "rowNumber": 784,
+          "rowPosition": 785,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"785\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSPD",
+            "2024",
+            "6",
+            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+            "1003"
+          ],
+          "rowNumber": 785,
+          "rowPosition": 786,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"786\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSPD",
+            "2024",
+            "7",
+            "UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS",
+            "1051"
+          ],
+          "rowNumber": 786,
+          "rowPosition": 787,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO DE CUIDADOS PROLONGADOS\" in row \"787\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSSFA",
+            "2019",
+            "1",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "409"
+          ],
+          "rowNumber": 787,
+          "rowPosition": 788,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"788\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -19612,156 +19762,6 @@
             "2",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
             "507"
-          ],
-          "rowNumber": 782,
-          "rowPosition": 783,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"783\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFA",
-            "2019",
-            "3",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "698"
-          ],
-          "rowNumber": 783,
-          "rowPosition": 784,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"784\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFA",
-            "2019",
-            "4",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "710"
-          ],
-          "rowNumber": 784,
-          "rowPosition": 785,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"785\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFA",
-            "2019",
-            "4",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "12"
-          ],
-          "rowNumber": 785,
-          "rowPosition": 786,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"786\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFA",
-            "2019",
-            "5",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "904"
-          ],
-          "rowNumber": 786,
-          "rowPosition": 787,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"787\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFA",
-            "2019",
-            "5",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "88"
-          ],
-          "rowNumber": 787,
-          "rowPosition": 788,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"788\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFA",
-            "2019",
-            "6",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "850"
           ],
           "rowNumber": 788,
           "rowPosition": 789,
@@ -19777,16 +19777,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2019",
-            "6",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "63"
+            "3",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "698"
           ],
           "rowNumber": 789,
           "rowPosition": 790,
@@ -19798,7 +19798,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"790\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"790\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -19809,9 +19809,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "7",
+            "4",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "958"
+            "710"
           ],
           "rowNumber": 790,
           "rowPosition": 791,
@@ -19834,9 +19834,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "7",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "41"
+            "12"
           ],
           "rowNumber": 791,
           "rowPosition": 792,
@@ -19859,9 +19859,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "8",
+            "5",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "942"
+            "904"
           ],
           "rowNumber": 792,
           "rowPosition": 793,
@@ -19884,9 +19884,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "8",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "43"
+            "88"
           ],
           "rowNumber": 793,
           "rowPosition": 794,
@@ -19909,9 +19909,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "9",
+            "6",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "847"
+            "850"
           ],
           "rowNumber": 794,
           "rowPosition": 795,
@@ -19934,9 +19934,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "9",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "14"
+            "63"
           ],
           "rowNumber": 795,
           "rowPosition": 796,
@@ -19959,9 +19959,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "10",
+            "7",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "872"
+            "958"
           ],
           "rowNumber": 796,
           "rowPosition": 797,
@@ -19977,16 +19977,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2019",
-            "10",
-            "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
-            "10"
+            "7",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "41"
           ],
           "rowNumber": 797,
           "rowPosition": 798,
@@ -19998,20 +19998,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA CIRURGICA\" in row \"798\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"798\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2019",
-            "10",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "11"
+            "8",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "942"
           ],
           "rowNumber": 798,
           "rowPosition": 799,
@@ -20023,20 +20023,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"799\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"799\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2019",
-            "11",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "705"
+            "8",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "43"
           ],
           "rowNumber": 799,
           "rowPosition": 800,
@@ -20048,20 +20048,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"800\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"800\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2019",
-            "11",
-            "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
-            "27"
+            "9",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "847"
           ],
           "rowNumber": 800,
           "rowPosition": 801,
@@ -20073,7 +20073,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA CIRURGICA\" in row \"801\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"801\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -20084,9 +20084,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "11",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "9"
+            "14"
           ],
           "rowNumber": 801,
           "rowPosition": 802,
@@ -20109,9 +20109,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "12",
+            "10",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "359"
+            "872"
           ],
           "rowNumber": 802,
           "rowPosition": 803,
@@ -20134,9 +20134,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "12",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
-            "57"
+            "10"
           ],
           "rowNumber": 803,
           "rowPosition": 804,
@@ -20159,9 +20159,9 @@
           "cells": [
             "CSSFA",
             "2019",
-            "12",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "36"
+            "11"
           ],
           "rowNumber": 804,
           "rowPosition": 805,
@@ -20183,10 +20183,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2020",
-            "1",
+            "2019",
+            "11",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "629"
+            "705"
           ],
           "rowNumber": 805,
           "rowPosition": 806,
@@ -20208,10 +20208,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2020",
-            "1",
+            "2019",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
-            "31"
+            "27"
           ],
           "rowNumber": 806,
           "rowPosition": 807,
@@ -20233,10 +20233,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2020",
-            "1",
+            "2019",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "4"
+            "9"
           ],
           "rowNumber": 807,
           "rowPosition": 808,
@@ -20258,10 +20258,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2020",
-            "2",
+            "2019",
+            "12",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "801"
+            "359"
           ],
           "rowNumber": 808,
           "rowPosition": 809,
@@ -20283,10 +20283,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2020",
-            "2",
+            "2019",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
-            "21"
+            "57"
           ],
           "rowNumber": 809,
           "rowPosition": 810,
@@ -20308,10 +20308,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2020",
-            "2",
+            "2019",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "8"
+            "36"
           ],
           "rowNumber": 810,
           "rowPosition": 811,
@@ -20334,9 +20334,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "3",
+            "1",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "600"
+            "629"
           ],
           "rowNumber": 811,
           "rowPosition": 812,
@@ -20359,9 +20359,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "3",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
-            "3"
+            "31"
           ],
           "rowNumber": 812,
           "rowPosition": 813,
@@ -20384,9 +20384,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "3",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "19"
+            "4"
           ],
           "rowNumber": 813,
           "rowPosition": 814,
@@ -20409,9 +20409,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "4",
+            "2",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "441"
+            "801"
           ],
           "rowNumber": 814,
           "rowPosition": 815,
@@ -20427,16 +20427,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2020",
-            "4",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "8"
+            "2",
+            "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
+            "21"
           ],
           "rowNumber": 815,
           "rowPosition": 816,
@@ -20448,20 +20448,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"816\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA CIRURGICA\" in row \"816\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2020",
-            "5",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "388"
+            "2",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "8"
           ],
           "rowNumber": 816,
           "rowPosition": 817,
@@ -20473,7 +20473,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"817\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"817\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -20484,9 +20484,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "6",
+            "3",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "489"
+            "600"
           ],
           "rowNumber": 817,
           "rowPosition": 818,
@@ -20502,16 +20502,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2020",
-            "7",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "507"
+            "3",
+            "UNIDADE INTERNAÇÃO - CLINICA CIRURGICA",
+            "3"
           ],
           "rowNumber": 818,
           "rowPosition": 819,
@@ -20523,20 +20523,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"819\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA CIRURGICA\" in row \"819\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2020",
-            "8",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "684"
+            "3",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "19"
           ],
           "rowNumber": 819,
           "rowPosition": 820,
@@ -20548,20 +20548,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"820\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"820\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2020",
-            "8",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "3"
+            "4",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "441"
           ],
           "rowNumber": 820,
           "rowPosition": 821,
@@ -20573,20 +20573,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"821\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"821\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2020",
-            "9",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "660"
+            "4",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "8"
           ],
           "rowNumber": 821,
           "rowPosition": 822,
@@ -20598,20 +20598,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"822\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"822\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2020",
-            "9",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "8"
+            "5",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "388"
           ],
           "rowNumber": 822,
           "rowPosition": 823,
@@ -20623,7 +20623,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"823\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"823\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -20634,9 +20634,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "10",
+            "6",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "695"
+            "489"
           ],
           "rowNumber": 823,
           "rowPosition": 824,
@@ -20652,16 +20652,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2020",
-            "10",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "7"
+            "7",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "507"
           ],
           "rowNumber": 824,
           "rowPosition": 825,
@@ -20673,7 +20673,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"825\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"825\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -20684,9 +20684,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "11",
+            "8",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "740"
+            "684"
           ],
           "rowNumber": 825,
           "rowPosition": 826,
@@ -20709,9 +20709,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "11",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "7"
+            "3"
           ],
           "rowNumber": 826,
           "rowPosition": 827,
@@ -20734,9 +20734,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "12",
+            "9",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "901"
+            "660"
           ],
           "rowNumber": 827,
           "rowPosition": 828,
@@ -20759,9 +20759,9 @@
           "cells": [
             "CSSFA",
             "2020",
-            "12",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "54"
+            "8"
           ],
           "rowNumber": 828,
           "rowPosition": 829,
@@ -20783,10 +20783,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2021",
-            "1",
+            "2020",
+            "10",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "946"
+            "695"
           ],
           "rowNumber": 829,
           "rowPosition": 830,
@@ -20808,10 +20808,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2021",
-            "1",
+            "2020",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "30"
+            "7"
           ],
           "rowNumber": 830,
           "rowPosition": 831,
@@ -20833,10 +20833,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2021",
-            "2",
+            "2020",
+            "11",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "789"
+            "740"
           ],
           "rowNumber": 831,
           "rowPosition": 832,
@@ -20858,10 +20858,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2021",
-            "2",
+            "2020",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "53"
+            "7"
           ],
           "rowNumber": 832,
           "rowPosition": 833,
@@ -20883,10 +20883,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2021",
-            "3",
+            "2020",
+            "12",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "859"
+            "901"
           ],
           "rowNumber": 833,
           "rowPosition": 834,
@@ -20908,10 +20908,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2021",
-            "3",
+            "2020",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "17"
+            "54"
           ],
           "rowNumber": 834,
           "rowPosition": 835,
@@ -20934,9 +20934,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "4",
+            "1",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "882"
+            "946"
           ],
           "rowNumber": 835,
           "rowPosition": 836,
@@ -20959,9 +20959,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "4",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "46"
+            "30"
           ],
           "rowNumber": 836,
           "rowPosition": 837,
@@ -20984,9 +20984,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "5",
+            "2",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1065"
+            "789"
           ],
           "rowNumber": 837,
           "rowPosition": 838,
@@ -21009,9 +21009,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "5",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "66"
+            "53"
           ],
           "rowNumber": 838,
           "rowPosition": 839,
@@ -21034,9 +21034,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "6",
+            "3",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "917"
+            "859"
           ],
           "rowNumber": 839,
           "rowPosition": 840,
@@ -21059,9 +21059,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "6",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "42"
+            "17"
           ],
           "rowNumber": 840,
           "rowPosition": 841,
@@ -21084,9 +21084,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "7",
+            "4",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "994"
+            "882"
           ],
           "rowNumber": 841,
           "rowPosition": 842,
@@ -21109,9 +21109,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "7",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "61"
+            "46"
           ],
           "rowNumber": 842,
           "rowPosition": 843,
@@ -21134,9 +21134,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "8",
+            "5",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1034"
+            "1065"
           ],
           "rowNumber": 843,
           "rowPosition": 844,
@@ -21159,9 +21159,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "8",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "35"
+            "66"
           ],
           "rowNumber": 844,
           "rowPosition": 845,
@@ -21184,9 +21184,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "9",
+            "6",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1152"
+            "917"
           ],
           "rowNumber": 845,
           "rowPosition": 846,
@@ -21209,9 +21209,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "9",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "14"
+            "42"
           ],
           "rowNumber": 846,
           "rowPosition": 847,
@@ -21234,9 +21234,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "10",
+            "7",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1180"
+            "994"
           ],
           "rowNumber": 847,
           "rowPosition": 848,
@@ -21259,9 +21259,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "10",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "27"
+            "61"
           ],
           "rowNumber": 848,
           "rowPosition": 849,
@@ -21284,9 +21284,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "11",
+            "8",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1059"
+            "1034"
           ],
           "rowNumber": 849,
           "rowPosition": 850,
@@ -21309,9 +21309,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "11",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "4"
+            "35"
           ],
           "rowNumber": 850,
           "rowPosition": 851,
@@ -21334,9 +21334,9 @@
           "cells": [
             "CSSFA",
             "2021",
-            "12",
+            "9",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "888"
+            "1152"
           ],
           "rowNumber": 851,
           "rowPosition": 852,
@@ -21352,16 +21352,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2022",
-            "1",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "988"
+            "2021",
+            "9",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "14"
           ],
           "rowNumber": 852,
           "rowPosition": 853,
@@ -21373,7 +21373,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"853\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"853\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -21383,10 +21383,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2022",
-            "2",
+            "2021",
+            "10",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "922"
+            "1180"
           ],
           "rowNumber": 853,
           "rowPosition": 854,
@@ -21408,10 +21408,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2022",
-            "2",
+            "2021",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "19"
+            "27"
           ],
           "rowNumber": 854,
           "rowPosition": 855,
@@ -21433,10 +21433,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2022",
-            "3",
+            "2021",
+            "11",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1200"
+            "1059"
           ],
           "rowNumber": 855,
           "rowPosition": 856,
@@ -21458,10 +21458,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2022",
-            "3",
+            "2021",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "9"
+            "4"
           ],
           "rowNumber": 856,
           "rowPosition": 857,
@@ -21483,10 +21483,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2022",
-            "4",
+            "2021",
+            "12",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1089"
+            "888"
           ],
           "rowNumber": 857,
           "rowPosition": 858,
@@ -21509,9 +21509,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "5",
+            "1",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1269"
+            "988"
           ],
           "rowNumber": 858,
           "rowPosition": 859,
@@ -21534,9 +21534,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "6",
+            "2",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1256"
+            "922"
           ],
           "rowNumber": 859,
           "rowPosition": 860,
@@ -21559,9 +21559,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "6",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "56"
+            "19"
           ],
           "rowNumber": 860,
           "rowPosition": 861,
@@ -21584,9 +21584,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "7",
+            "3",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1338"
+            "1200"
           ],
           "rowNumber": 861,
           "rowPosition": 862,
@@ -21609,9 +21609,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "7",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "40"
+            "9"
           ],
           "rowNumber": 862,
           "rowPosition": 863,
@@ -21634,9 +21634,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "8",
+            "4",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1422"
+            "1089"
           ],
           "rowNumber": 863,
           "rowPosition": 864,
@@ -21652,16 +21652,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2022",
-            "8",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "93"
+            "5",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "1269"
           ],
           "rowNumber": 864,
           "rowPosition": 865,
@@ -21673,7 +21673,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"865\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"865\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -21684,9 +21684,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "9",
+            "6",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1377"
+            "1256"
           ],
           "rowNumber": 865,
           "rowPosition": 866,
@@ -21709,9 +21709,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "9",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "75"
+            "56"
           ],
           "rowNumber": 866,
           "rowPosition": 867,
@@ -21734,9 +21734,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "10",
+            "7",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1320"
+            "1338"
           ],
           "rowNumber": 867,
           "rowPosition": 868,
@@ -21752,16 +21752,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2022",
-            "11",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1082"
+            "7",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "40"
           ],
           "rowNumber": 868,
           "rowPosition": 869,
@@ -21773,7 +21773,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"869\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"869\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -21784,9 +21784,9 @@
           "cells": [
             "CSSFA",
             "2022",
-            "12",
+            "8",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1103"
+            "1422"
           ],
           "rowNumber": 869,
           "rowPosition": 870,
@@ -21802,16 +21802,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2023",
-            "1",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1198"
+            "2022",
+            "8",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "93"
           ],
           "rowNumber": 870,
           "rowPosition": 871,
@@ -21823,7 +21823,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"871\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"871\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -21833,10 +21833,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2023",
-            "2",
+            "2022",
+            "9",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1070"
+            "1377"
           ],
           "rowNumber": 871,
           "rowPosition": 872,
@@ -21858,10 +21858,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2023",
-            "2",
+            "2022",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "13"
+            "75"
           ],
           "rowNumber": 872,
           "rowPosition": 873,
@@ -21883,10 +21883,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2023",
-            "3",
+            "2022",
+            "10",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1041"
+            "1320"
           ],
           "rowNumber": 873,
           "rowPosition": 874,
@@ -21908,10 +21908,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2023",
-            "4",
+            "2022",
+            "11",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "913"
+            "1082"
           ],
           "rowNumber": 874,
           "rowPosition": 875,
@@ -21933,10 +21933,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2023",
-            "5",
+            "2022",
+            "12",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1045"
+            "1103"
           ],
           "rowNumber": 875,
           "rowPosition": 876,
@@ -21952,16 +21952,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2023",
-            "5",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "16"
+            "1",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "1198"
           ],
           "rowNumber": 876,
           "rowPosition": 877,
@@ -21973,7 +21973,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"877\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"877\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -21984,9 +21984,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "6",
+            "2",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "961"
+            "1070"
           ],
           "rowNumber": 877,
           "rowPosition": 878,
@@ -22009,9 +22009,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "6",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "44"
+            "13"
           ],
           "rowNumber": 878,
           "rowPosition": 879,
@@ -22034,9 +22034,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "7",
+            "3",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1080"
+            "1041"
           ],
           "rowNumber": 879,
           "rowPosition": 880,
@@ -22052,16 +22052,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
             "2023",
-            "7",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "72"
+            "4",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "913"
           ],
           "rowNumber": 880,
           "rowPosition": 881,
@@ -22073,7 +22073,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"881\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"881\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22084,9 +22084,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "8",
+            "5",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "992"
+            "1045"
           ],
           "rowNumber": 881,
           "rowPosition": 882,
@@ -22109,9 +22109,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "8",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "46"
+            "16"
           ],
           "rowNumber": 882,
           "rowPosition": 883,
@@ -22134,9 +22134,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "9",
+            "6",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1008"
+            "961"
           ],
           "rowNumber": 883,
           "rowPosition": 884,
@@ -22159,9 +22159,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "9",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "33"
+            "44"
           ],
           "rowNumber": 884,
           "rowPosition": 885,
@@ -22184,9 +22184,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "10",
+            "7",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "963"
+            "1080"
           ],
           "rowNumber": 885,
           "rowPosition": 886,
@@ -22209,9 +22209,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "10",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "19"
+            "72"
           ],
           "rowNumber": 886,
           "rowPosition": 887,
@@ -22234,9 +22234,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "11",
+            "8",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "883"
+            "992"
           ],
           "rowNumber": 887,
           "rowPosition": 888,
@@ -22259,9 +22259,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "11",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "14"
+            "46"
           ],
           "rowNumber": 888,
           "rowPosition": 889,
@@ -22284,9 +22284,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "12",
+            "9",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "964"
+            "1008"
           ],
           "rowNumber": 889,
           "rowPosition": 890,
@@ -22309,9 +22309,9 @@
           "cells": [
             "CSSFA",
             "2023",
-            "12",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "14"
+            "33"
           ],
           "rowNumber": 890,
           "rowPosition": 891,
@@ -22333,10 +22333,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2024",
-            "1",
+            "2023",
+            "10",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1070"
+            "963"
           ],
           "rowNumber": 891,
           "rowPosition": 892,
@@ -22352,16 +22352,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2024",
-            "2",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1194"
+            "2023",
+            "10",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "19"
           ],
           "rowNumber": 892,
           "rowPosition": 893,
@@ -22373,7 +22373,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"893\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"893\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22383,10 +22383,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2024",
-            "3",
+            "2023",
+            "11",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1474"
+            "883"
           ],
           "rowNumber": 893,
           "rowPosition": 894,
@@ -22402,16 +22402,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2024",
-            "4",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1354"
+            "2023",
+            "11",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "14"
           ],
           "rowNumber": 894,
           "rowPosition": 895,
@@ -22423,7 +22423,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"895\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"895\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22433,10 +22433,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2024",
-            "5",
+            "2023",
+            "12",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1186"
+            "964"
           ],
           "rowNumber": 895,
           "rowPosition": 896,
@@ -22452,16 +22452,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2024",
-            "6",
-            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1242"
+            "2023",
+            "12",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "14"
           ],
           "rowNumber": 896,
           "rowPosition": 897,
@@ -22473,7 +22473,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"897\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"897\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22484,9 +22484,9 @@
           "cells": [
             "CSSFA",
             "2024",
-            "7",
+            "1",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1417"
+            "1070"
           ],
           "rowNumber": 897,
           "rowPosition": 898,
@@ -22509,9 +22509,9 @@
           "cells": [
             "CSSFA",
             "2024",
-            "8",
+            "2",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1379"
+            "1194"
           ],
           "rowNumber": 898,
           "rowPosition": 899,
@@ -22534,9 +22534,9 @@
           "cells": [
             "CSSFA",
             "2024",
-            "9",
+            "3",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1325"
+            "1474"
           ],
           "rowNumber": 899,
           "rowPosition": 900,
@@ -22559,9 +22559,9 @@
           "cells": [
             "CSSFA",
             "2024",
-            "10",
+            "4",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1381"
+            "1354"
           ],
           "rowNumber": 900,
           "rowPosition": 901,
@@ -22584,9 +22584,9 @@
           "cells": [
             "CSSFA",
             "2024",
-            "11",
+            "5",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1233"
+            "1186"
           ],
           "rowNumber": 901,
           "rowPosition": 902,
@@ -22609,9 +22609,9 @@
           "cells": [
             "CSSFA",
             "2024",
-            "12",
+            "6",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1282"
+            "1242"
           ],
           "rowNumber": 902,
           "rowPosition": 903,
@@ -22633,10 +22633,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2025",
-            "1",
+            "2024",
+            "7",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1169"
+            "1417"
           ],
           "rowNumber": 903,
           "rowPosition": 904,
@@ -22658,10 +22658,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2025",
-            "2",
+            "2024",
+            "8",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "958"
+            "1379"
           ],
           "rowNumber": 904,
           "rowPosition": 905,
@@ -22683,10 +22683,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2025",
-            "3",
+            "2024",
+            "9",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1198"
+            "1325"
           ],
           "rowNumber": 905,
           "rowPosition": 906,
@@ -22708,10 +22708,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2025",
-            "4",
+            "2024",
+            "10",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1127"
+            "1381"
           ],
           "rowNumber": 906,
           "rowPosition": 907,
@@ -22733,10 +22733,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2025",
-            "5",
+            "2024",
+            "11",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1318"
+            "1233"
           ],
           "rowNumber": 907,
           "rowPosition": 908,
@@ -22758,10 +22758,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2025",
-            "6",
+            "2024",
+            "12",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1412"
+            "1282"
           ],
           "rowNumber": 908,
           "rowPosition": 909,
@@ -22784,9 +22784,9 @@
           "cells": [
             "CSSFA",
             "2025",
-            "7",
+            "1",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1502"
+            "1169"
           ],
           "rowNumber": 909,
           "rowPosition": 910,
@@ -22809,9 +22809,9 @@
           "cells": [
             "CSSFA",
             "2025",
-            "8",
+            "2",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1390"
+            "958"
           ],
           "rowNumber": 910,
           "rowPosition": 911,
@@ -22834,9 +22834,9 @@
           "cells": [
             "CSSFA",
             "2025",
-            "9",
+            "3",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1244"
+            "1198"
           ],
           "rowNumber": 911,
           "rowPosition": 912,
@@ -22859,9 +22859,9 @@
           "cells": [
             "CSSFA",
             "2025",
-            "10",
+            "4",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1200"
+            "1127"
           ],
           "rowNumber": 912,
           "rowPosition": 913,
@@ -22884,9 +22884,9 @@
           "cells": [
             "CSSFA",
             "2025",
-            "11",
+            "5",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1087"
+            "1318"
           ],
           "rowNumber": 913,
           "rowPosition": 914,
@@ -22909,9 +22909,9 @@
           "cells": [
             "CSSFA",
             "2025",
-            "12",
+            "6",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1163"
+            "1412"
           ],
           "rowNumber": 914,
           "rowPosition": 915,
@@ -22933,10 +22933,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2026",
-            "1",
+            "2025",
+            "7",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1233"
+            "1502"
           ],
           "rowNumber": 915,
           "rowPosition": 916,
@@ -22958,10 +22958,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2026",
-            "2",
+            "2025",
+            "8",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1120"
+            "1390"
           ],
           "rowNumber": 916,
           "rowPosition": 917,
@@ -22983,10 +22983,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2026",
-            "3",
+            "2025",
+            "9",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1227"
+            "1244"
           ],
           "rowNumber": 917,
           "rowPosition": 918,
@@ -23008,10 +23008,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFA",
-            "2026",
-            "4",
+            "2025",
+            "10",
             "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
-            "1192"
+            "1200"
           ],
           "rowNumber": 918,
           "rowPosition": 919,
@@ -23027,16 +23027,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSSFE",
-            "2019",
-            "1",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "379"
+            "CSSFA",
+            "2025",
+            "11",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "1087"
           ],
           "rowNumber": 919,
           "rowPosition": 920,
@@ -23048,20 +23048,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"920\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"920\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSSFE",
-            "2019",
-            "2",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "300"
+            "CSSFA",
+            "2025",
+            "12",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "1163"
           ],
           "rowNumber": 920,
           "rowPosition": 921,
@@ -23073,20 +23073,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"921\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"921\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSSFE",
-            "2019",
-            "3",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "335"
+            "CSSFA",
+            "2026",
+            "1",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "1233"
           ],
           "rowNumber": 921,
           "rowPosition": 922,
@@ -23098,20 +23098,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"922\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"922\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSSFE",
-            "2019",
-            "4",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "278"
+            "CSSFA",
+            "2026",
+            "2",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "1120"
           ],
           "rowNumber": 922,
           "rowPosition": 923,
@@ -23123,20 +23123,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"923\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"923\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSSFE",
-            "2019",
-            "5",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "510"
+            "CSSFA",
+            "2026",
+            "3",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "1227"
           ],
           "rowNumber": 923,
           "rowPosition": 924,
@@ -23148,20 +23148,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"924\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"924\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSSFE",
-            "2019",
-            "6",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "578"
+            "CSSFA",
+            "2026",
+            "4",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "1192"
           ],
           "rowNumber": 924,
           "rowPosition": 925,
@@ -23173,20 +23173,20 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"925\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"925\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "cell": "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
-            "CSSFE",
-            "2019",
-            "7",
-            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "576"
+            "CSSFA",
+            "2026",
+            "5",
+            "UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ",
+            "1185"
           ],
           "rowNumber": 925,
           "rowPosition": 926,
@@ -23198,7 +23198,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"926\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNACAO CCI Cuidados Continuados Integ\" in row \"926\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23209,9 +23209,9 @@
           "cells": [
             "CSSFE",
             "2019",
-            "8",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "528"
+            "379"
           ],
           "rowNumber": 926,
           "rowPosition": 927,
@@ -23234,9 +23234,9 @@
           "cells": [
             "CSSFE",
             "2019",
-            "9",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "510"
+            "300"
           ],
           "rowNumber": 927,
           "rowPosition": 928,
@@ -23259,9 +23259,9 @@
           "cells": [
             "CSSFE",
             "2019",
-            "10",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "522"
+            "335"
           ],
           "rowNumber": 928,
           "rowPosition": 929,
@@ -23284,9 +23284,9 @@
           "cells": [
             "CSSFE",
             "2019",
-            "11",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "530"
+            "278"
           ],
           "rowNumber": 929,
           "rowPosition": 930,
@@ -23309,9 +23309,9 @@
           "cells": [
             "CSSFE",
             "2019",
-            "12",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "316"
+            "510"
           ],
           "rowNumber": 930,
           "rowPosition": 931,
@@ -23333,10 +23333,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2020",
-            "1",
+            "2019",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "345"
+            "578"
           ],
           "rowNumber": 931,
           "rowPosition": 932,
@@ -23358,10 +23358,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2020",
-            "2",
+            "2019",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "341"
+            "576"
           ],
           "rowNumber": 932,
           "rowPosition": 933,
@@ -23383,10 +23383,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2020",
-            "3",
+            "2019",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "330"
+            "528"
           ],
           "rowNumber": 933,
           "rowPosition": 934,
@@ -23408,10 +23408,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2020",
-            "4",
+            "2019",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "368"
+            "510"
           ],
           "rowNumber": 934,
           "rowPosition": 935,
@@ -23433,10 +23433,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2020",
-            "5",
+            "2019",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "291"
+            "522"
           ],
           "rowNumber": 935,
           "rowPosition": 936,
@@ -23458,10 +23458,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2020",
-            "6",
+            "2019",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "358"
+            "530"
           ],
           "rowNumber": 936,
           "rowPosition": 937,
@@ -23483,10 +23483,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2020",
-            "7",
+            "2019",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "419"
+            "316"
           ],
           "rowNumber": 937,
           "rowPosition": 938,
@@ -23509,9 +23509,9 @@
           "cells": [
             "CSSFE",
             "2020",
-            "8",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "297"
+            "345"
           ],
           "rowNumber": 938,
           "rowPosition": 939,
@@ -23534,9 +23534,9 @@
           "cells": [
             "CSSFE",
             "2020",
-            "9",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "249"
+            "341"
           ],
           "rowNumber": 939,
           "rowPosition": 940,
@@ -23559,9 +23559,9 @@
           "cells": [
             "CSSFE",
             "2020",
-            "10",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "357"
+            "330"
           ],
           "rowNumber": 940,
           "rowPosition": 941,
@@ -23584,9 +23584,9 @@
           "cells": [
             "CSSFE",
             "2020",
-            "11",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "327"
+            "368"
           ],
           "rowNumber": 941,
           "rowPosition": 942,
@@ -23609,9 +23609,9 @@
           "cells": [
             "CSSFE",
             "2020",
-            "12",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "318"
+            "291"
           ],
           "rowNumber": 942,
           "rowPosition": 943,
@@ -23633,10 +23633,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2021",
-            "1",
+            "2020",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "301"
+            "358"
           ],
           "rowNumber": 943,
           "rowPosition": 944,
@@ -23658,10 +23658,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2021",
-            "2",
+            "2020",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "322"
+            "419"
           ],
           "rowNumber": 944,
           "rowPosition": 945,
@@ -23683,10 +23683,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2021",
-            "3",
+            "2020",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "287"
+            "297"
           ],
           "rowNumber": 945,
           "rowPosition": 946,
@@ -23708,10 +23708,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2021",
-            "4",
+            "2020",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "366"
+            "249"
           ],
           "rowNumber": 946,
           "rowPosition": 947,
@@ -23733,10 +23733,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2021",
-            "5",
+            "2020",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "337"
+            "357"
           ],
           "rowNumber": 947,
           "rowPosition": 948,
@@ -23758,10 +23758,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2021",
-            "6",
+            "2020",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "333"
+            "327"
           ],
           "rowNumber": 948,
           "rowPosition": 949,
@@ -23783,10 +23783,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2021",
-            "7",
+            "2020",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "332"
+            "318"
           ],
           "rowNumber": 949,
           "rowPosition": 950,
@@ -23809,9 +23809,9 @@
           "cells": [
             "CSSFE",
             "2021",
-            "8",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "311"
+            "301"
           ],
           "rowNumber": 950,
           "rowPosition": 951,
@@ -23834,9 +23834,9 @@
           "cells": [
             "CSSFE",
             "2021",
-            "9",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "408"
+            "322"
           ],
           "rowNumber": 951,
           "rowPosition": 952,
@@ -23859,9 +23859,9 @@
           "cells": [
             "CSSFE",
             "2021",
-            "10",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "381"
+            "287"
           ],
           "rowNumber": 952,
           "rowPosition": 953,
@@ -23884,9 +23884,9 @@
           "cells": [
             "CSSFE",
             "2021",
-            "11",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "298"
+            "366"
           ],
           "rowNumber": 953,
           "rowPosition": 954,
@@ -23909,9 +23909,9 @@
           "cells": [
             "CSSFE",
             "2021",
-            "12",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "215"
+            "337"
           ],
           "rowNumber": 954,
           "rowPosition": 955,
@@ -23933,10 +23933,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2022",
-            "1",
+            "2021",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "277"
+            "333"
           ],
           "rowNumber": 955,
           "rowPosition": 956,
@@ -23958,10 +23958,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2022",
-            "2",
+            "2021",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "248"
+            "332"
           ],
           "rowNumber": 956,
           "rowPosition": 957,
@@ -23983,10 +23983,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2022",
-            "3",
+            "2021",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "426"
+            "311"
           ],
           "rowNumber": 957,
           "rowPosition": 958,
@@ -24008,10 +24008,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2022",
-            "4",
+            "2021",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "379"
+            "408"
           ],
           "rowNumber": 958,
           "rowPosition": 959,
@@ -24033,10 +24033,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2022",
-            "5",
+            "2021",
+            "10",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "418"
+            "381"
           ],
           "rowNumber": 959,
           "rowPosition": 960,
@@ -24058,10 +24058,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2022",
-            "6",
+            "2021",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "423"
+            "298"
           ],
           "rowNumber": 960,
           "rowPosition": 961,
@@ -24083,10 +24083,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2022",
-            "7",
+            "2021",
+            "12",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "449"
+            "215"
           ],
           "rowNumber": 961,
           "rowPosition": 962,
@@ -24109,9 +24109,9 @@
           "cells": [
             "CSSFE",
             "2022",
-            "8",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "472"
+            "277"
           ],
           "rowNumber": 962,
           "rowPosition": 963,
@@ -24134,9 +24134,9 @@
           "cells": [
             "CSSFE",
             "2022",
-            "9",
+            "2",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "387"
+            "248"
           ],
           "rowNumber": 963,
           "rowPosition": 964,
@@ -24159,9 +24159,9 @@
           "cells": [
             "CSSFE",
             "2022",
-            "10",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "402"
+            "426"
           ],
           "rowNumber": 964,
           "rowPosition": 965,
@@ -24184,9 +24184,9 @@
           "cells": [
             "CSSFE",
             "2022",
-            "11",
+            "4",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "375"
+            "379"
           ],
           "rowNumber": 965,
           "rowPosition": 966,
@@ -24209,9 +24209,9 @@
           "cells": [
             "CSSFE",
             "2022",
-            "12",
+            "5",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "238"
+            "418"
           ],
           "rowNumber": 966,
           "rowPosition": 967,
@@ -24233,10 +24233,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2023",
-            "1",
+            "2022",
+            "6",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "393"
+            "423"
           ],
           "rowNumber": 967,
           "rowPosition": 968,
@@ -24258,10 +24258,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2023",
-            "2",
+            "2022",
+            "7",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "394"
+            "449"
           ],
           "rowNumber": 968,
           "rowPosition": 969,
@@ -24283,10 +24283,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2023",
-            "3",
+            "2022",
+            "8",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "455"
+            "472"
           ],
           "rowNumber": 969,
           "rowPosition": 970,
@@ -24308,10 +24308,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2023",
-            "4",
+            "2022",
+            "9",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "421"
+            "387"
           ],
           "rowNumber": 970,
           "rowPosition": 971,
@@ -24327,16 +24327,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2023",
-            "5",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "107"
+            "2022",
+            "10",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "402"
           ],
           "rowNumber": 971,
           "rowPosition": 972,
@@ -24348,7 +24348,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"972\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"972\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24358,10 +24358,10 @@
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2023",
-            "5",
+            "2022",
+            "11",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "287"
+            "375"
           ],
           "rowNumber": 972,
           "rowPosition": 973,
@@ -24377,16 +24377,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
-            "2023",
-            "6",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "181"
+            "2022",
+            "12",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "238"
           ],
           "rowNumber": 973,
           "rowPosition": 974,
@@ -24398,7 +24398,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"974\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"974\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24409,9 +24409,9 @@
           "cells": [
             "CSSFE",
             "2023",
-            "6",
+            "1",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "211"
+            "393"
           ],
           "rowNumber": 974,
           "rowPosition": 975,
@@ -24427,16 +24427,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
             "2023",
-            "7",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "211"
+            "2",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "394"
           ],
           "rowNumber": 975,
           "rowPosition": 976,
@@ -24448,7 +24448,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"976\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"976\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24459,9 +24459,9 @@
           "cells": [
             "CSSFE",
             "2023",
-            "7",
+            "3",
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
-            "233"
+            "455"
           ],
           "rowNumber": 976,
           "rowPosition": 977,
@@ -24477,16 +24477,16 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
           "cells": [
             "CSSFE",
             "2023",
-            "8",
-            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
-            "188"
+            "4",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "421"
           ],
           "rowNumber": 977,
           "rowPosition": 978,
@@ -24498,7 +24498,182 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"978\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"978\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSSFE",
+            "2023",
+            "5",
+            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+            "107"
+          ],
+          "rowNumber": 978,
+          "rowPosition": 979,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"979\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSSFE",
+            "2023",
+            "5",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "287"
+          ],
+          "rowNumber": 979,
+          "rowPosition": 980,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"980\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSSFE",
+            "2023",
+            "6",
+            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+            "181"
+          ],
+          "rowNumber": 980,
+          "rowPosition": 981,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"981\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSSFE",
+            "2023",
+            "6",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "211"
+          ],
+          "rowNumber": 981,
+          "rowPosition": 982,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"982\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSSFE",
+            "2023",
+            "7",
+            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+            "211"
+          ],
+          "rowNumber": 982,
+          "rowPosition": 983,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"983\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSSFE",
+            "2023",
+            "7",
+            "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
+            "233"
+          ],
+          "rowNumber": 983,
+          "rowPosition": 984,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"984\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+          "fieldName": "setor_centro_custo",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "cells": [
+            "CSSFE",
+            "2023",
+            "8",
+            "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
+            "188"
+          ],
+          "rowNumber": 984,
+          "rowPosition": 985,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"985\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24513,8 +24688,8 @@
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
             "212"
           ],
-          "rowNumber": 978,
-          "rowPosition": 979,
+          "rowNumber": 985,
+          "rowPosition": 986,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24523,7 +24698,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"979\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"986\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24538,8 +24713,8 @@
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "150"
           ],
-          "rowNumber": 979,
-          "rowPosition": 980,
+          "rowNumber": 986,
+          "rowPosition": 987,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24548,7 +24723,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"980\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"987\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24563,8 +24738,8 @@
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
             "199"
           ],
-          "rowNumber": 980,
-          "rowPosition": 981,
+          "rowNumber": 987,
+          "rowPosition": 988,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24573,7 +24748,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"981\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"988\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24588,8 +24763,8 @@
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "184"
           ],
-          "rowNumber": 981,
-          "rowPosition": 982,
+          "rowNumber": 988,
+          "rowPosition": 989,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24598,7 +24773,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"982\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"989\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24613,8 +24788,8 @@
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
             "236"
           ],
-          "rowNumber": 982,
-          "rowPosition": 983,
+          "rowNumber": 989,
+          "rowPosition": 990,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24623,7 +24798,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"983\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"990\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24638,8 +24813,8 @@
             "UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS",
             "20"
           ],
-          "rowNumber": 983,
-          "rowPosition": 984,
+          "rowNumber": 990,
+          "rowPosition": 991,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24648,7 +24823,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"984\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS\" in row \"991\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24663,8 +24838,8 @@
             "UNIDADE INTERNAÇÃO - CLINICA MÉDICA",
             "22"
           ],
-          "rowNumber": 984,
-          "rowPosition": 985,
+          "rowNumber": 991,
+          "rowPosition": 992,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24673,7 +24848,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"985\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE INTERNAÇÃO - CLINICA MÉDICA\" in row \"992\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24688,8 +24863,8 @@
             "UNIDADE DE CUIDADOS PROLONGADOS",
             "88"
           ],
-          "rowNumber": 985,
-          "rowPosition": 986,
+          "rowNumber": 992,
+          "rowPosition": 993,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24698,7 +24873,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"986\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"993\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24713,8 +24888,8 @@
             "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
             "226"
           ],
-          "rowNumber": 986,
-          "rowPosition": 987,
+          "rowNumber": 993,
+          "rowPosition": 994,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24723,7 +24898,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"987\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"994\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24738,8 +24913,8 @@
             "UNIDADE DE CUIDADOS PROLONGADOS",
             "181"
           ],
-          "rowNumber": 987,
-          "rowPosition": 988,
+          "rowNumber": 994,
+          "rowPosition": 995,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24748,7 +24923,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"988\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"995\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24763,8 +24938,8 @@
             "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
             "240"
           ],
-          "rowNumber": 988,
-          "rowPosition": 989,
+          "rowNumber": 995,
+          "rowPosition": 996,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24773,7 +24948,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"989\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"996\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24788,8 +24963,8 @@
             "UNIDADE DE CUIDADOS PROLONGADOS",
             "154"
           ],
-          "rowNumber": 989,
-          "rowPosition": 990,
+          "rowNumber": 996,
+          "rowPosition": 997,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24798,7 +24973,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"990\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"997\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24813,8 +24988,8 @@
             "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
             "258"
           ],
-          "rowNumber": 990,
-          "rowPosition": 991,
+          "rowNumber": 997,
+          "rowPosition": 998,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24823,7 +24998,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"991\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"998\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24838,8 +25013,8 @@
             "UNIDADE DE CUIDADOS PROLONGADOS",
             "113"
           ],
-          "rowNumber": 991,
-          "rowPosition": 992,
+          "rowNumber": 998,
+          "rowPosition": 999,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24848,7 +25023,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"992\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"999\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24863,8 +25038,8 @@
             "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
             "297"
           ],
-          "rowNumber": 992,
-          "rowPosition": 993,
+          "rowNumber": 999,
+          "rowPosition": 1000,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -24873,7 +25048,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"993\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"1000\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24888,181 +25063,6 @@
             "UNIDADE DE CUIDADOS PROLONGADOS",
             "168"
           ],
-          "rowNumber": 993,
-          "rowPosition": 994,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"994\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFE",
-            "2024",
-            "4",
-            "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
-            "281"
-          ],
-          "rowNumber": 994,
-          "rowPosition": 995,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"995\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE CUIDADOS PROLONGADOS",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFE",
-            "2024",
-            "5",
-            "UNIDADE DE CUIDADOS PROLONGADOS",
-            "192"
-          ],
-          "rowNumber": 995,
-          "rowPosition": 996,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"996\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFE",
-            "2024",
-            "5",
-            "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
-            "223"
-          ],
-          "rowNumber": 996,
-          "rowPosition": 997,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"997\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE CUIDADOS PROLONGADOS",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFE",
-            "2024",
-            "6",
-            "UNIDADE DE CUIDADOS PROLONGADOS",
-            "183"
-          ],
-          "rowNumber": 997,
-          "rowPosition": 998,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"998\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFE",
-            "2024",
-            "6",
-            "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
-            "195"
-          ],
-          "rowNumber": 998,
-          "rowPosition": 999,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"999\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE CUIDADOS PROLONGADOS",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFE",
-            "2024",
-            "7",
-            "UNIDADE DE CUIDADOS PROLONGADOS",
-            "189"
-          ],
-          "rowNumber": 999,
-          "rowPosition": 1000,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"1000\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
-          "fieldName": "setor_centro_custo",
-          "fieldNumber": 4,
-          "fieldPosition": 4,
-          "cells": [
-            "CSSFE",
-            "2024",
-            "7",
-            "UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA",
-            "189"
-          ],
           "rowNumber": 1000,
           "rowPosition": 1001,
           "code": "type-error",
@@ -25073,7 +25073,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"UNIDADE DE INTERNAÇÃO - CLÍNICA MÉDICA\" in row \"1001\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"UNIDADE DE CUIDADOS PROLONGADOS\" in row \"1001\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         }
       ],
